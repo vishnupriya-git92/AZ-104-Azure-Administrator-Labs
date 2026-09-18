@@ -3,7 +3,7 @@
 Practice managing users and groups in Microsoft Entra ID using the Azure portal and Microsoft Entra admin center.
 ## Tasks Completed
 Created and managed Entra ID users
-Created a security group
+Created a Security group
 Practiced group membership
 Practiced dynamic group membership
 ## What I Learned
