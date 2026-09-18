@@ -4,10 +4,12 @@ Practice managing users and groups in Microsoft Entra ID using the Azure portal 
 ## Tasks Completed
 - Created and managed Entra ID users
 - Created a Security group
-- Practiced group membership
 - Practiced dynamic group membership
 ## What I Learned
 - Microsoft Entra ID manages identities and access.
 - Users can be members of groups.
 - Groups can use assigned or dynamic memebership.
 - Dynamic membership uses rules to automatically determine group membership.
+## My Implementation
+For the security group portion of this lab, I used **Dynamic memebership** instead of assigned membership.
+I configured a membership rule based on user attributes and observed how Microsoft Entra ID automatically manages group membership based on the rule.  
