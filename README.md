@@ -9,7 +9,7 @@ Practice managing users and groups in Microsoft Entra ID using the Azure portal 
 
  ### Users
 
-![Entra ID Users](screenshots/users.png)
+![Users](screenshots/users.png)
 
  ### Security Group
 
